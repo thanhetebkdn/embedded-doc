@@ -5,15 +5,15 @@
 | Web-backend                                                        | My Projects | Status |
 | ------------------------------------------------------------------ | ----------- | ------ |
 | [Python APIs \| Backend](#python-apis--backend "Goto Python APIs") |             | ⏳     |
-| [RTOS Basics]()                                                    |             | :+1:   |
-| [GPIO]()                                                           |             | :+1:   |
-| [ADC/DAC]()                                                        |             | :+1:   |
-| [Timers/Counter]()                                                 |             | :+1:   |
-| [PWM]()                                                            |             | :+1:   |
+| [RTOS Basics](#database)                                           |             | :+1:   |
+| [GPIO](#database)                                                  |             | :+1:   |
+| [ADC/DAC](#database)                                               |             | :+1:   |
+| [Timers/Counter](#database)                                        |             | :+1:   |
+| [PWM](#database)                                                   |             | :+1:   |
 
 <!-- ##  OpenCV, Data structures and Algorithms (python), R, FreeRTOS Basic, Vector Database, GitHub Actions, Timer/ Counter, Generative AI -->
 
-### Python APIs | Backend
+### FreeRTOS Basic
 
 | Channel                        | Description                                                                           | Link                                                                                                                                                   | Language | Status                   |
 | ------------------------------ | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ------------------------ |
@@ -33,3 +33,11 @@
 | FreeCodeCamp | ~ 25 hours (include 2 parts) \| Learn detail about various database tools                                                         | [Database Systems - Cornell University Course (SQL, NoSQL, Large-Scale Data Analysis)](https://www.youtube.com/watch?v=4cWkVbC2bNE&list=LL&index=2)                              | English  | :+1:     |
 | FreeCodeCamp | ~ 11 hours \| I think this course research so detail about SQL (if you just want to focus only SQL, well, begin with this course) | [Intuitive SQL For Data Analytics - Tutorial](https://www.youtube.com/watch?v=mXW7JHJM34k&list=LL&index=5)                                                                       | English  | 🔰       |
 | FreeCodeCamp | ~ 1 hour \| The ways to deploy a web or app                                                                                       | [How to Deploy a Web App Using Multiple Methods (Azure, Render, MongoDB Atlas, Koyeb, and more )](https://www.youtube.com/watch?v=vROMXzOWqec&list=LL&index=1)                   | English  | 🤯       |
+
+### GPIO
+
+### ADC/DAC
+
+### Timers/Counter
+
+### PWM
