@@ -1,12 +1,15 @@
-## Table of Contents
+## Microcontroller
 
-| Knowledge                         | Note | Status |
-| --------------------------------- | ---- | ------ |
-| [GPIO](#gpio)                     |      | :+1:   |
-| [ADC/DAC](#adc-dac)               |      | :+1:   |
-| [Timers/Counter](#timers-counter) |      | :+1:   |
-| [PWM](#pwm)                       |      | :+1:   |
-| 🤯                                |
+| Knowledge                             | Note | Status |
+| ------------------------------------- | ---- | ------ |
+| [GPIO](#gpio)                         |      | :+1:   |
+| [ADC/DAC](#adc/dac)                   |      | :+1:   |
+| [Timers/Counter](#timers/counter)     |      | :+1:   |
+| [PWM](#pwm)                           |      | :+1:   |
+| [WatchdogTimer](#watchdog)            |      |        |
+| [Interrupt](#interrupt)               |      |        |
+| [DMA](#dma)                           |      |        |
+| [Clock Management](#clock-management) |      |        |
 
 ### GPIO
 
@@ -41,3 +44,32 @@
 ### DMA
 
 ### Clock Management
+
+## Debugging
+
+| Knowledge     | Note | Status |
+| ------------- | ---- | ------ |
+| [JTAG](#jtag) |      | :+1:   |
+| [GDB](#gdb)   |      | :+1:   |
+
+### JTAG
+
+### GDB
+
+## Interface & Protocol
+
+## Debugging
+
+| Knowledge     | Note | Status |
+| ------------- | ---- | ------ |
+| [UART](#uart) |      | :+1:   |
+| [I2C](#i2c)   |      | :+1:   |
+| [SPI](#spi)   |      | :+1:   |
+
+## Operating System
+
+| Knowledge             | Note | Status |
+| --------------------- | ---- | ------ |
+| [RTOS](#rtos)         |      | :+1:   |
+| [FreeRTOS](#freertos) |      | :+1:   |
+| [Zephyr](#zephyr)     |      | :+1:   |
