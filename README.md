@@ -1,18 +1,18 @@
 ## Table of Contents
 
-| Web-backend                       | My Projects | Status |
-| --------------------------------- | ----------- | ------ |
-| [RTOS Basics](#freertos-basic)    |             | :+1:   |
-| [GPIO](#gpio)                     |             | :+1:   |
-| [ADC/DAC](#adc-dac)               |             | :+1:   |
-| [Timers/Counter](#timers-counter) |             | :+1:   |
-| [PWM](#pwm)                       |             | :+1:   |
+| Knowledge                         | Note | Status |
+| --------------------------------- | ---- | ------ |
+| [RTOS Basics](#freertos-basic)    |      | :+1:   |
+| [GPIO](#gpio)                     |      | :+1:   |
+| [ADC/DAC](#adc-dac)               |      | :+1:   |
+| [Timers/Counter](#timers-counter) |      | :+1:   |
+| [PWM](#pwm)                       |      | :+1:   |
 
 ### FreeRTOS Basic
 
 | Channel                        | Description                                                                           | Link                                                                                                                                                   | Language | Status                   |
 | ------------------------------ | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ------------------------ |
-| FreeCodeCamp                   | Learn through project ~ 10 hours                                                      | [Learn Python Backend Development by Building 3 Projects \[Full Course\]](https://www.youtube.com/watch?v=ftKiHCDVwfA&list=LL&index=1&t=263s)          | English  | :+1:                     |
+| FreeRTOS Home                  | Learn through project ~ 10 hours                                                      | [Real-time operating system for microcontrollers and small microprocessors](https://www.freertos.org/)                                                 | English  | :+1:                     |
 | FreeCodeCamp                   | Basic ~ 19 hours                                                                      | [Python API Development - Comprehensive Course for Beginners](https://www.youtube.com/watch?v=0sOvCWFmrtA&list=LL&index=1&t=2s)                        | English  | ⏳                       |
 | FreeCodeCamp \| Harvard CS50’s | Basic to Advance and How to connect all together ~ 14 hours (From Harvard university) | [Harvard CS50’s Web Programming with Python and JavaScript – Full University Course](https://www.youtube.com/watch?v=vzGllw18DkA&list=LL&index=2&t=0s) | English  | :+1: How exciting hhaaa. |
 | FreeCodeCamp                   | Learn Django ~ 18 hours and 30 minutes                                                | [Django For Everybody - Full Python University Course)](https://www.youtube.com/watch?v=o0XbHvKxw7Y&list=LL&index=3)                                   | English  | :x:                      |
@@ -31,8 +31,14 @@
 
 ### GPIO
 
+| Channel | Description | Link                                                                             | Language | Status   |
+| ------- | ----------- | -------------------------------------------------------------------------------- | -------- | -------- |
+| Hexnbit | ~ 8 minutes | [Data General purpose Input Output](https://www.youtube.com/watch?v=tjDhmavBGf0) | English  | :shipit: |
+
 ### ADC/DAC
 
 ### Timers/Counter
 
 ### PWM
+
+- GPIO
