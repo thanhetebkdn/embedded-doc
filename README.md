@@ -5,11 +5,11 @@
 | Web-backend                                                        | My Projects | Status |
 | ------------------------------------------------------------------ | ----------- | ------ |
 | [Python APIs \| Backend](#python-apis--backend "Goto Python APIs") |             | ⏳     |
-| [RTOS Basics](#database)                                           |             | :+1:   |
-| [GPIO](#database)                                                  |             | :+1:   |
-| [ADC/DAC](#database)                                               |             | :+1:   |
-| [Timers/Counter](#database)                                        |             | :+1:   |
-| [PWM](#database)                                                   |             | :+1:   |
+| [RTOS Basics]()                                                    |             | :+1:   |
+| [GPIO]()                                                           |             | :+1:   |
+| [ADC/DAC]()                                                        |             | :+1:   |
+| [Timers/Counter]()                                                 |             | :+1:   |
+| [PWM]()                                                            |             | :+1:   |
 
 <!-- ##  OpenCV, Data structures and Algorithms (python), R, FreeRTOS Basic, Vector Database, GitHub Actions, Timer/ Counter, Generative AI -->
 
