@@ -2,19 +2,7 @@
 
 ## Table of Contents
 
-| AI Knowledge                                                         | My Notion Site                                                                                                                           | Status |
-| -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| [FreeRTOS Basic](#FreeRTOSBasic "Goto FreeRTOS Basic")               | [Notebook for FreeRTOS Basic](https://chain-spade-1dd.notion.site/FreeRTOS Basic-a41d08358b2f4934b43a329a4bafd941)                       | 🚀     |
-| [GPIO ](#algorithms-and-data-structures-in-python "Goto GPIO")       | [Notebook for this title](https://chain-spade-1dd.notion.site/Data-Structures-and-Algorithms-in-Python-f6f25ac8483d4eb6a84d58a16b93e769) | 🚀     |
-| [ADC/ DAC](#ADC/ DAC "Goto ADC/ DAC")                                |                                                                                                                                          | 🚀     |
-| [Timer/ Counter](#Timer/Counter "Goto Timer/ Counter")               |                                                                                                                                          | :star: |
-| [PWM](#opencv "Goto OpenCV")                                         |                                                                                                                                          | :+1:   |
-| [Interupt](#python-pillow)                                           |                                                                                                                                          | :+1:   |
-| [DMA](#DMA "Goto DMA")                                               |                                                                                                                                          | :x:    |
-| [Clock Management](#yolo "Goto Clock Management")                    |                                                                                                                                          | :x:    |
-| [JTAG/ SWD](#r "Goto JTAG/ SWD")                                     |                                                                                                                                          | :x:    |
-| [GDB](#tensorflor-20-keras "Goto GDB")                               |                                                                                                                                          | :x:    |
-| [TDD & Unit Testing](#tensorflor-20-keras "Goto TDD & Unit Testing") |                                                                                                                                          | :x:    |
+
 
 | Web-backend                                                        | My Projects | Status |
 | ------------------------------------------------------------------ | ----------- | ------ |
