@@ -1,15 +1,15 @@
 ## Microcontroller
 
-| Knowledge                            | Note | Status  |
-| ------------------------------------ | ---- | ------- |
-| [GPIO](#gpio)                        |      | :check: |
-| [ADC/DAC](#adc/dac)                  |      | :check: |
-| [Timers/Counter](#timers/counter)    |      | :check: |
-| [PWM](#pwm)                          |      |         |
-| [WatchdogTimer](#watchdog)           |      |         |
-| [Interrupt](#interrupt)              |      | :check: |
-| [DMA](#dma)                          |      |         |
-| [Clock Management](#clockmanagement) |      |         |
+| Knowledge                            | Note | Status |
+| ------------------------------------ | ---- | ------ |
+| [GPIO](#gpio)                        |      | ✅     |
+| [ADC/DAC](#adc/dac)                  |      | ✅     |
+| [Timers/Counter](#timers/counter)    |      | ✅     |
+| [PWM](#pwm)                          |      |        |
+| [WatchdogTimer](#watchdog)           |      |        |
+| [Interrupt](#interrupt)              |      | ✅     |
+| [DMA](#dma)                          |      |        |
+| [Clock Management](#clockmanagement) |      |        |
 
 ### GPIO
 
@@ -47,10 +47,10 @@
 
 ## Debugging
 
-| Knowledge     | Note | Status  |
-| ------------- | ---- | ------- |
-| [JTAG](#jtag) |      | :check: |
-| [GDB](#gdb)   |      | :check: |
+| Knowledge     | Note | Status |
+| ------------- | ---- | ------ |
+| [JTAG](#jtag) |      | ✅     |
+| [GDB](#gdb)   |      | ✅     |
 
 ### JTAG
 
@@ -58,26 +58,26 @@
 
 ## Interface & Protocol
 
-| Knowledge     | Note | Status  |
-| ------------- | ---- | ------- |
-| [UART](#uart) |      | :check: |
-| [I2C](#i2c)   |      | :check: |
-| [SPI](#spi)   |      | :check: |
+| Knowledge     | Note | Status |
+| ------------- | ---- | ------ |
+| [UART](#uart) |      | ✅     |
+| [I2C](#i2c)   |      | ✅     |
+| [SPI](#spi)   |      | ✅     |
 
 ## Operating System
 
-| Knowledge             | Note | Status  |
-| --------------------- | ---- | ------- |
-| [RTOS](#rtos)         |      | :check: |
-| [FreeRTOS](#freertos) |      | :check: |
-| [Zephyr](#zephyr)     |      | :check: |
+| Knowledge             | Note | Status |
+| --------------------- | ---- | ------ |
+| [RTOS](#rtos)         |      | ✅     |
+| [FreeRTOS](#freertos) |      | ✅     |
+| [Zephyr](#zephyr)     |      | ✅     |
 
 ## Lora / Lorawan
 
-| Knowledge                                                                                                                        | Note | Status  |
-| -------------------------------------------------------------------------------------------------------------------------------- | ---- | ------- |
-| [The Arduino Guide to LoRa® and LoRaWAN®](https://docs.arduino.cc/learn/communication/lorawan-101/)                              |      | :check: |
-| [The Things Fundamentals on LoRaWAN!](https://www.thethingsnetwork.org/docs/lorawan/)                                            |      | :check: |
-| [What are LoRa® and LoRaWAN®?](#zephyr)                                                                                          |      | :check: |
-| [#112 LoRa / LoRaWAN De-Mystified / Tutorial](https://www.youtube.com/watch?v=hMOwbNUpDQA)                                       |      | :check: |
-| [ESP32 with LoRa using Arduino IDE – Getting Started](https://randomnerdtutorials.com/esp32-lora-rfm95-transceiver-arduino-ide/) |      | :check: |
+| Knowledge                                                                                                                        | Note | Status |
+| -------------------------------------------------------------------------------------------------------------------------------- | ---- | ------ |
+| [The Arduino Guide to LoRa® and LoRaWAN®](https://docs.arduino.cc/learn/communication/lorawan-101/)                              |      | ✅     |
+| [The Things Fundamentals on LoRaWAN!](https://www.thethingsnetwork.org/docs/lorawan/)                                            |      | ✅     |
+| [What are LoRa® and LoRaWAN®?](#zephyr)                                                                                          |      | ✅     |
+| [#112 LoRa / LoRaWAN De-Mystified / Tutorial](https://www.youtube.com/watch?v=hMOwbNUpDQA)                                       |      | ✅     |
+| [ESP32 with LoRa using Arduino IDE – Getting Started](https://randomnerdtutorials.com/esp32-lora-rfm95-transceiver-arduino-ide/) |      | ✅     |
