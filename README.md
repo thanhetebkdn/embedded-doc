@@ -1,16 +1,12 @@
-# Embedded Letures
-
 ## Table of Contents
 
-| Web-backend                                 | My Projects | Status |
-| ------------------------------------------- | ----------- | ------ |
-| [RTOS Basics](#database "Goto Python APIs") |             | :+1:   |
-| [GPIO](#database)                           |             | :+1:   |
-| [ADC/DAC](#database)                        |             | :+1:   |
-| [Timers/Counter](#database)                 |             | :+1:   |
-| [PWM](#database)                            |             | :+1:   |
-
-<!-- ##  OpenCV, Data structures and Algorithms (python), R, FreeRTOS Basic, Vector Database, GitHub Actions, Timer/ Counter, Generative AI -->
+| Web-backend                       | My Projects | Status |
+| --------------------------------- | ----------- | ------ |
+| [RTOS Basics](#freertos-basic)    |             | :+1:   |
+| [GPIO](#gpio)                     |             | :+1:   |
+| [ADC/DAC](#adc-dac)               |             | :+1:   |
+| [Timers/Counter](#timers-counter) |             | :+1:   |
+| [PWM](#pwm)                       |             | :+1:   |
 
 ### FreeRTOS Basic
 
