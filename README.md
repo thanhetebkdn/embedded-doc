@@ -2,61 +2,62 @@
 
 ## Table of Contents
 
-| AI Knowledge                                                                                                       | My Notion Site                                                                                                                           | Status |
-| ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| [PyTorch](#pytorch "Goto Pytorch")                                                                                 | [Notebook for PyTorch](https://chain-spade-1dd.notion.site/Pytorch-a41d08358b2f4934b43a329a4bafd941)                                     | 🚀     |
-| [Algorithms and Data Structures ](#algorithms-and-data-structures-in-python "Goto Algorithms and Data Structures") | [Notebook for this title](https://chain-spade-1dd.notion.site/Data-Structures-and-Algorithms-in-Python-f6f25ac8483d4eb6a84d58a16b93e769) | 🚀     |
-| [Sciki-learn](#sciki-learn "Goto Sciki-learn")                                                                     |                                                                                                                                          | 🚀     |
-| [Pandas](#pandas "Goto Pandas")                                                                                    |                                                                                                                                          | :star: |
-| [OpenCV](#opencv "Goto OpenCV")                                                                                    |                                                                                                                                          | :+1:   |
-| [Python Pillow](#python-pillow)                                                                                    |                                                                                                                                          | :+1:   |
-| [Docker](#docker "Goto Docker")                                                                                    |                                                                                                                                          | :x:    |
-| [YOLO](#yolo "Goto YOLO")                                                                                          |                                                                                                                                          | :x:    |
-| [R](#r "Goto R")                                                                                                   |                                                                                                                                          | :x:    |
-| [Tensorflor 2.0 Keras](#tensorflor-20-keras "Goto Tensorflor 2.0 Keras")                                           |                                                                                                                                          | :x:    |
+| AI Knowledge                                                         | My Notion Site                                                                                                                           | Status |
+| -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| [FreeRTOS Basic](#FreeRTOSBasic "Goto FreeRTOS Basic")               | [Notebook for FreeRTOS Basic](https://chain-spade-1dd.notion.site/FreeRTOS Basic-a41d08358b2f4934b43a329a4bafd941)                       | 🚀     |
+| [GPIO ](#algorithms-and-data-structures-in-python "Goto GPIO")       | [Notebook for this title](https://chain-spade-1dd.notion.site/Data-Structures-and-Algorithms-in-Python-f6f25ac8483d4eb6a84d58a16b93e769) | 🚀     |
+| [ADC/ DAC](#ADC/ DAC "Goto ADC/ DAC")                                |                                                                                                                                          | 🚀     |
+| [Timer/ Counter](#Timer/Counter "Goto Timer/ Counter")               |                                                                                                                                          | :star: |
+| [PWM](#opencv "Goto OpenCV")                                         |                                                                                                                                          | :+1:   |
+| [Interupt](#python-pillow)                                           |                                                                                                                                          | :+1:   |
+| [DMA](#DMA "Goto DMA")                                               |                                                                                                                                          | :x:    |
+| [Clock Management](#yolo "Goto Clock Management")                    |                                                                                                                                          | :x:    |
+| [JTAG/ SWD](#r "Goto JTAG/ SWD")                                     |                                                                                                                                          | :x:    |
+| [GDB](#tensorflor-20-keras "Goto GDB")                               |                                                                                                                                          | :x:    |
+| [TDD & Unit Testing](#tensorflor-20-keras "Goto TDD & Unit Testing") |                                                                                                                                          | :x:    |
 
 | Web-backend                                                        | My Projects | Status |
 | ------------------------------------------------------------------ | ----------- | ------ |
 | [Python APIs \| Backend](#python-apis--backend "Goto Python APIs") |             | ⏳     |
 | [Database](#database)                                              |             | :+1:   |
 
-<!-- ##  OpenCV, Data structures and Algorithms (python), R, Pytorch, Vector Database, GitHub Actions, Pandas, Generative AI -->
+<!-- ##  OpenCV, Data structures and Algorithms (python), R, FreeRTOS Basic, Vector Database, GitHub Actions, Timer/ Counter, Generative AI -->
 
-### Pytorch
+### FreeRTOS Basic
 
-| Channel          | Description    | Link                                                                                                                               | Language | Status             |
-| ---------------- | -------------- | ---------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------ |
-| FreeCodeCamp.org | **25 hours**   | [_PyTorch for Deep Learning & Machine Learning – Full Course_](https://www.youtube.com/watch?v=V_xro1bcAuA&list=LL&index=13&t=92s) | English  | ✅                 |
-| AssemblyAI       | 50 min         | [PyTorch Crash Course - Getting Started with Deep Learning](https://www.youtube.com/watch?v=OIenNRt2bjg&list=LL&index=69&t=4s)     | English  | :white_check_mark: |
-| Pytorch.org      | documentations | [Tutorial from pytorch.org](https://pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html)                                | English  | :+1:               |
-| Pytorch.org      | PyTorch API    | [Research Python API on PyTorch](https://pytorch.org/docs/stable/notes/cuda.html#)                                                 | English  | :+1:               |
-| AssemblyAI       | Serial lession | [Pytorch Tutorial](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4)                                       | English  | 🫰                  |
-| Patrick Loeber   | 4:35 hours     | [Deep Learning With PyTorch - Full Course](https://www.youtube.com/watch?v=c36lUUr864M&list=LL&index=1)                            | English  | 🫰                  |
+| Channel            | Description        | Link                                                                                                                                      | Language | Status             |
+| ------------------ | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------ |
+| FreeCodeCamp.org   | **25 hours**       | [_FreeRTOS Basic for Deep Learning & Machine Learning – Full Course_](https://www.youtube.com/watch?v=V_xro1bcAuA&list=LL&index=13&t=92s) | English  | ✅                 |
+| AssemblyAI         | 50 min             | [FreeRTOS Basic Crash Course - Getting Started with Deep Learning](https://www.youtube.com/watch?v=OIenNRt2bjg&list=LL&index=69&t=4s)     | English  | :white_check_mark: |
+| FreeRTOS Basic.org | documentations     | [Tutorial from FreeRTOS Basic.org](https://FreeRTOS Basic.org/tutorials/beginner/basics/quickstart_tutorial.html)                         | English  | :+1:               |
+| FreeRTOS Basic.org | FreeRTOS Basic API | [Research Python API on FreeRTOS Basic](https://FreeRTOS Basic.org/docs/stable/notes/cuda.html#)                                          | English  | :+1:               |
+| AssemblyAI         | Serial lession     | [FreeRTOS Basic Tutorial](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4)                                       | English  | 🫰                  |
+| Patrick Loeber     | 4:35 hours         | [Deep Learning With FreeRTOS Basic - Full Course](https://www.youtube.com/watch?v=c36lUUr864M&list=LL&index=1)                            | English  | 🫰                  |
 
-### Algorithms and Data Structures in Python
+### GPIO in Python
 
-| Channel          | Description | Link                                                                                                                                       | Language | Status |
-| ---------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ------ |
-| FreeCodeCamp.org | 12:30 hours | [Data Structures and Algorithms in Python - Full Course for Beginners](https://www.youtube.com/watch?v=pkYVOmU3MgA&list=LL&index=80)       | English  | ⏳     |
-| FreeCodeCamp.org | 2 hours     | [Algorithms in Python – Full Course for Beginners](https://www.youtube.com/watch?v=fW_OS3LGB9Q&list=LL&index=63)                           | English  | :x:    |
-| FreeCodeCamp.org | 5:22 hours  | [Algorithms and Data Structures Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0&list=LL&index=9&t=4878s) | English  | :x:    |
+| Channel          | Description | Link                                                                                                                                 | Language | Status |
+| ---------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------ | -------- | ------ |
+| FreeCodeCamp.org | 12:30 hours | [Data Structures and Algorithms in Python - Full Course for Beginners](https://www.youtube.com/watch?v=pkYVOmU3MgA&list=LL&index=80) | English  | ⏳     |
+| FreeCodeCamp.org | 2 hours     | [Algorithms in Python – Full Course for Beginners](https://www.youtube.com/watch?v=fW_OS3LGB9Q&list=LL&index=63)                     | English  | :x:    |
+| FreeCodeCamp.org | 5:22 hours  | [GPIO Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0&list=LL&index=9&t=4878s)                     | English  | :x:    |
 
 <!--| [Codecademy](https://www.codecademy.com/learn) | Free Course online | [Learn Data Structures and Algorithms with Python](https://www.codecademy.com/courses/learn-data-structures-and-algorithms-with-python/articles/nodes-data-structures-and-algorithms) | English | | -->
 
-### Sciki-learn
+### ADC/ DAC
 
 | Channel          | Description             | Link                                                                                                                           | Language | Status |
 | ---------------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------ | -------- | ------ |
 | FreeCodeCamp.org | 18 hours - 7 months ago | [Machine Learning with Python and Scikit-Learn – Full Course](https://www.youtube.com/watch?v=hDKCxebp88A)                     | English  | ✅     |
 | FreeCodeCamp.org | 2 hours - 3 years ago   | [Scikit-learn Crash Course - Machine Learning Library for Python](https://www.youtube.com/watch?v=0B5eIE_1vpU&list=LL&index=3) | English  | :x:    |
 
-### Pandas
+### Timer/ Counter
 
-| Channel          | Description              | Link                                                                                                                                                              | Language | Status |
-| ---------------- | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------ |
-| FreeCodeCamp     | Data analysis ~ 10 hours | [Data Analysis with Python Course - Numpy, Pandas, Data Visualization](https://www.youtube.com/watch?v=GPVsHOlRBBI&list=LL&index=11)                              | English  | :x:    |
-| FreeCodeCamp.org | 5 hours                  | [Pandas & Python for Data Analysis by Example – Full Course for Beginners](https://www.youtube.com/watch?v=gtjxAH8uaP0&list=LL&index=43)                          | English  | :x:    |
-| FreeCodeCamp.org | 4:30 hours               | [Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn)](https://www.youtube.com/watch?v=r-uOLxNrNk8&list=LL&index=45&t=226s) | English  | :x:    |
+| Channel          | Description              | Link                                                                                                                                                                      | Language | Status |
+| ---------------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------ |
+| FreeCodeCamp     | Data analysis ~ 10 hours | [Data Analysis with Python Course - Numpy, Timer/ Counter, Data Visualization](https://www.youtube.com/watch?v=GPVsHOlRBBI&list=LL&index=11)                              | English  | :x:    |
+| FreeCodeCamp.org | 5 hours                  | [Timer/ Counter & Python for Data Analysis by Example – Full Course for Beginners](https://www.youtube.com/watch?v=gtjxAH8uaP0&list=LL&index=43)                          | English  | :x:    |
+| FreeCodeCamp.org | 4:30 hours               | [Data Analysis with Python - Full Course for Beginners (Numpy, Timer/ Counter, Matplotlib, Seaborn)](https://www.youtube.com/watch?v=r-uOLxNrNk8&list=LL&index=45&t=226s) | English  | :x:    |
 
 ### OpenCV
 
@@ -70,20 +71,20 @@
 | --------------------- | -------------------- | --------------------------------------------------------------------------- | -------- | ------ |
 | pillow.readthedocs.io | Pillow documentation | [All of framework Pillow in here](https://pillow.readthedocs.io/en/stable/) | English  | :x:    |
 
-### Docker
+### DMA
 
-| Channel          | Description | Link                                                                                                                            | Language   | Status |
-| ---------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------ |
-| DevOps Directive | 4:44 hours  | [Complete Docker Course - From BEGINNER to PRO! (Learn Containers)](https://www.youtube.com/watch?v=RqTEHSBrYFw&t=2886s)        | English    | :x:    |
-| Mì AI            | 1 hour      | [Tìm hiểu các thao tác cơ bản với Docker - Mì AI](https://www.youtube.com/watch?v=B5wf8p1oezA&list=LL&index=1&t=2s)             | Vietnamese | :x:    |
-| FullstacKAGE     | 16 min      | [Hướng dẫn sử dụng Docker Compose (Dev/Test sử dụng Docker)](https://www.youtube.com/watch?v=dmn8oN4_zq4&list=LL&index=1&t=23s) | Vietnamese | :x:    |
+| Channel          | Description | Link                                                                                                                      | Language   | Status |
+| ---------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------- | ---------- | ------ |
+| DevOps Directive | 4:44 hours  | [Complete DMA Course - From BEGINNER to PRO! (Learn Containers)](https://www.youtube.com/watch?v=RqTEHSBrYFw&t=2886s)     | English    | :x:    |
+| Mì AI            | 1 hour      | [Tìm hiểu các thao tác cơ bản với DMA - Mì AI](https://www.youtube.com/watch?v=B5wf8p1oezA&list=LL&index=1&t=2s)          | Vietnamese | :x:    |
+| FullstacKAGE     | 16 min      | [Hướng dẫn sử dụng DMA Compose (Dev/Test sử dụng DMA)](https://www.youtube.com/watch?v=dmn8oN4_zq4&list=LL&index=1&t=23s) | Vietnamese | :x:    |
 
 ### YOLO
 
-| Channel         | Description | Link                                                                                                                                                      | Language | Project                                                                                       | Status             |
-| --------------- | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | --------------------------------------------------------------------------------------------- | ------------------ |
-| Code In a Jiffy | 4:30 hours  | [Build an AI/ML Football Analysis system with YOLO, OpenCV, and Python](https://www.youtube.com/watch?v=neBZ6huolkg&list=LL&index=41&t=6901s)             | English  | [HODUCVU/Football-Analysis-with-YOLO](https://github.com/HODUCVU/Football-Analysis-with-YOLO) | :white_check_mark: |
-| Code In a Jiffy | 4:41 hours  | [Build an AI/ML Tennis Analysis system with YOLO, PyTorch, and Key Point Extraction](https://www.youtube.com/watch?v=L23oIHZE14w&list=LL&index=38&t=111s) | English  |                                                                                               | :x:                |
+| Channel         | Description | Link                                                                                                                                                             | Language | Project                                                                                       | Status             |
+| --------------- | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | --------------------------------------------------------------------------------------------- | ------------------ |
+| Code In a Jiffy | 4:30 hours  | [Build an AI/ML Football Analysis system with YOLO, OpenCV, and Python](https://www.youtube.com/watch?v=neBZ6huolkg&list=LL&index=41&t=6901s)                    | English  | [HODUCVU/Football-Analysis-with-YOLO](https://github.com/HODUCVU/Football-Analysis-with-YOLO) | :white_check_mark: |
+| Code In a Jiffy | 4:41 hours  | [Build an AI/ML Tennis Analysis system with YOLO, FreeRTOS Basic, and Key Point Extraction](https://www.youtube.com/watch?v=L23oIHZE14w&list=LL&index=38&t=111s) | English  |                                                                                               | :x:                |
 
 <!--
 * [ ] [OpenCV tutorial for beginners | FULL COURSE in 3 hours with Python](https://www.youtube.com/watch?v=eDIj5LuIL4A&list=LL&index=1&t=94s)
@@ -118,12 +119,12 @@
 
 ### Database
 
-| Channel      | Description                                                                                                                       | Link                                                                                                                                                                     | Language | Status   |
-| ------------ | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | -------- |
-| FreeCodeCamp | ~ 20 hours \| Begin with this (All of data analysis for beginner (include python pandas...)                                       | [Data Analyst Bootcamp for Beginners (SQL, Tableau, Power BI, Python, Excel, Pandas, Projects, more)](https://www.youtube.com/watch?v=PSNXoAs2FtQ&list=LL&index=4&t=21s) | English  | :shipit: |
-| FreeCodeCamp | ~ 25 hours (include 2 parts) \| Learn detail about various database tools                                                         | [Database Systems - Cornell University Course (SQL, NoSQL, Large-Scale Data Analysis)](https://www.youtube.com/watch?v=4cWkVbC2bNE&list=LL&index=2)                      | English  | :+1:     |
-| FreeCodeCamp | ~ 11 hours \| I think this course research so detail about SQL (if you just want to focus only SQL, well, begin with this course) | [Intuitive SQL For Data Analytics - Tutorial](https://www.youtube.com/watch?v=mXW7JHJM34k&list=LL&index=5)                                                               | English  | 🔰       |
-| FreeCodeCamp | ~ 1 hour \| The ways to deploy a web or app                                                                                       | [How to Deploy a Web App Using Multiple Methods (Azure, Render, MongoDB Atlas, Koyeb, and more )](https://www.youtube.com/watch?v=vROMXzOWqec&list=LL&index=1)           | English  | 🤯       |
+| Channel      | Description                                                                                                                       | Link                                                                                                                                                                             | Language | Status   |
+| ------------ | --------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | -------- |
+| FreeCodeCamp | ~ 20 hours \| Begin with this (All of data analysis for beginner (include python Timer/ Counter...)                               | [Data Analyst Bootcamp for Beginners (SQL, Tableau, Power BI, Python, Excel, Timer/ Counter, Projects, more)](https://www.youtube.com/watch?v=PSNXoAs2FtQ&list=LL&index=4&t=21s) | English  | :shipit: |
+| FreeCodeCamp | ~ 25 hours (include 2 parts) \| Learn detail about various database tools                                                         | [Database Systems - Cornell University Course (SQL, NoSQL, Large-Scale Data Analysis)](https://www.youtube.com/watch?v=4cWkVbC2bNE&list=LL&index=2)                              | English  | :+1:     |
+| FreeCodeCamp | ~ 11 hours \| I think this course research so detail about SQL (if you just want to focus only SQL, well, begin with this course) | [Intuitive SQL For Data Analytics - Tutorial](https://www.youtube.com/watch?v=mXW7JHJM34k&list=LL&index=5)                                                                       | English  | 🔰       |
+| FreeCodeCamp | ~ 1 hour \| The ways to deploy a web or app                                                                                       | [How to Deploy a Web App Using Multiple Methods (Azure, Render, MongoDB Atlas, Koyeb, and more )](https://www.youtube.com/watch?v=vROMXzOWqec&list=LL&index=1)                   | English  | 🤯       |
 
 ## Besides
 
