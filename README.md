@@ -1,17 +1,12 @@
 ## Content
 
-| Knowledge                            | Note                                                                                               | Status  |
-| ------------------------------------ | -------------------------------------------------------------------------------------------------- | ------- |
-| [MicroController](#microcontroller)  | [Note for STM32](https://thanhdeptrai.notion.site/stm32f4x-d81f2376cfe649389089d610025f7f67?pvs=4) | Update  |
-| [FreeRTOS](#freertos)                | [FreeRTOS](https://thanhdeptrai.notion.site/freertos-115f363afe39806e9cbdf60cab2b4ee2?pvs=4)       | Running |
-| [Lora/ LoraWan](#lora/lorawan)       |                                                                                                    |         |
-| [PWM](#pwm)                          |                                                                                                    |         |
-| [WatchdogTimer](#watchdog)           |                                                                                                    |         |
-| [Interrupt](#interrupt)              |                                                                                                    | Update  |
-| [DMA](#dma)                          |                                                                                                    |         |
-| [Clock Management](#clockmanagement) |                                                                                                    |         |
+| Knowledge                           | Note                                                                                               | Status  |
+| ----------------------------------- | -------------------------------------------------------------------------------------------------- | ------- |
+| [MicroController](#microcontroller) | [Note for STM32](https://thanhdeptrai.notion.site/stm32f4x-d81f2376cfe649389089d610025f7f67?pvs=4) | Update  |
+| [FreeRTOS](#freertos)               | [FreeRTOS](https://thanhdeptrai.notion.site/freertos-115f363afe39806e9cbdf60cab2b4ee2?pvs=4)       | Running |
+| [Lora/ LoraWan](#lora/lorawan)      |                                                                                                    |         |
 
-### Microcontroller
+# Microcontroller
 
 ### GPIO
 
@@ -37,25 +32,7 @@
 | Hexnbit            | ~ 8 minutes | [Tutorial 14: ADC by Polling](https://www.youtube.com/watch?v=uUi6JyUuEJA)              | English  |        |
 | ControllersTech    | ~ 8 minutes | [DAC in STM32 - Sine wave - HAL - CubeIDE](https://www.youtube.com/watch?v=6Z1L6ox63j0) | English  |        |
 
-### PWM
-
-### Watchdog Timer
-
-### Interrupt
-
-### DMA
-
-### Clock Management
-
-### UART
-
-### I2C
-
-### SPI
-
-### RTOS
-
-### FreeRTOS
+# FreeRTOS
 
 | Channel   | Description | Link                                                                                                                                                     | Language | Status |
 | --------- | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------ |
@@ -63,7 +40,7 @@
 | DigiKey   | ~ 8 minutes | [Introduction to RTOS](https://www.youtube.com/playlist?list=PLEBQazB0HUyQ4hAPU1cJED6t3DU0h34bz)                                                         | English  |        |
 | FreeRTOS™ | ~ 8 minutes | [Mastering the FreeRTOS Real Time Kernel - a Hands On Tutorial Guide](https://www.freertos.org/Documentation/02-Kernel/07-Books-and-manual/01-RTOS_book) | English  |        |
 
-## Lora / Lorawan
+# Lora / Lorawan
 
 | Knowledge                                                                                                                        | Note | Status |
 | -------------------------------------------------------------------------------------------------------------------------------- | ---- | ------ |
