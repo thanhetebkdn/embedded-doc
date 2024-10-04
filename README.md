@@ -1,15 +1,17 @@
-## Microcontroller
+## Content
 
 | Knowledge                            | Note | Status |
 | ------------------------------------ | ---- | ------ |
-| [GPIO](#gpio)                        |      | ✅     |
-| [ADC/DAC](#adc/dac)                  |      | ✅     |
-| [Timers/Counter](#timers/counter)    |      | ✅     |
+| [MicroController](#microcontroller)  |      | ✅     |
+| [FreeRTOS](#freertos)                |      | ✅     |
+| [Lora](#lora)                        |      |        |
 | [PWM](#pwm)                          |      |        |
 | [WatchdogTimer](#watchdog)           |      |        |
 | [Interrupt](#interrupt)              |      | ✅     |
 | [DMA](#dma)                          |      |        |
 | [Clock Management](#clockmanagement) |      |        |
+
+### Microcontroller
 
 ### GPIO
 
@@ -45,39 +47,28 @@
 
 ### Clock Management
 
-## Debugging
+### UART
 
-| Knowledge     | Note | Status |
-| ------------- | ---- | ------ |
-| [JTAG](#jtag) |      | ✅     |
-| [GDB](#gdb)   |      | ✅     |
+### I2C
 
-### JTAG
+### SPI
 
-### GDB
+### RTOS
 
-## Interface & Protocol
+### FreeRTOS
 
-| Knowledge     | Note | Status |
-| ------------- | ---- | ------ |
-| [UART](#uart) |      | ✅     |
-| [I2C](#i2c)   |      | ✅     |
-| [SPI](#spi)   |      | ✅     |
-
-## Operating System
-
-| Knowledge             | Note | Status |
-| --------------------- | ---- | ------ |
-| [RTOS](#rtos)         |      | ✅     |
-| [FreeRTOS](#freertos) |      | ✅     |
-| [Zephyr](#zephyr)     |      | ✅     |
+| Channel   | Description | Link                                                                                                                                                     | Language | Status |
+| --------- | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------ |
+| FreeRTOS™ | ~ 8 minutes | [FreeRTOS](https://www.freertos.org/)                                                                                                                    | English  |        |
+| DigiKey   | ~ 8 minutes | [Introduction to RTOS](https://www.youtube.com/playlist?list=PLEBQazB0HUyQ4hAPU1cJED6t3DU0h34bz)                                                         | English  |        |
+| FreeRTOS™ | ~ 8 minutes | [Mastering the FreeRTOS Real Time Kernel - a Hands On Tutorial Guide](https://www.freertos.org/Documentation/02-Kernel/07-Books-and-manual/01-RTOS_book) | English  |        |
 
 ## Lora / Lorawan
 
 | Knowledge                                                                                                                        | Note | Status |
 | -------------------------------------------------------------------------------------------------------------------------------- | ---- | ------ |
-| [The Arduino Guide to LoRa® and LoRaWAN®](https://docs.arduino.cc/learn/communication/lorawan-101/)                              |      | ✅     |
-| [The Things Fundamentals on LoRaWAN!](https://www.thethingsnetwork.org/docs/lorawan/)                                            |      | ✅     |
-| [What are LoRa® and LoRaWAN®?](#zephyr)                                                                                          |      | ✅     |
-| [#112 LoRa / LoRaWAN De-Mystified / Tutorial](https://www.youtube.com/watch?v=hMOwbNUpDQA)                                       |      | ✅     |
-| [ESP32 with LoRa using Arduino IDE – Getting Started](https://randomnerdtutorials.com/esp32-lora-rfm95-transceiver-arduino-ide/) |      | ✅     |
+| [The Arduino Guide to LoRa® and LoRaWAN®](https://docs.arduino.cc/learn/communication/lorawan-101/)                              |      | ❌     |
+| [The Things Fundamentals on LoRaWAN!](https://www.thethingsnetwork.org/docs/lorawan/)                                            |      | ❌     |
+| [What are LoRa® and LoRaWAN®?](#zephyr)                                                                                          |      | ❌     |
+| [#112 LoRa / LoRaWAN De-Mystified / Tutorial](https://www.youtube.com/watch?v=hMOwbNUpDQA)                                       |      | ❌     |
+| [ESP32 with LoRa using Arduino IDE – Getting Started](https://randomnerdtutorials.com/esp32-lora-rfm95-transceiver-arduino-ide/) |      | ❌     |
