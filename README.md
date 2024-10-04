@@ -1,15 +1,15 @@
 ## Content
 
-| Knowledge                            | Note | Status |
-| ------------------------------------ | ---- | ------ |
-| [MicroController](#microcontroller)  |      | ✅     |
-| [FreeRTOS](#freertos)                |      | ✅     |
-| [Lora](#lora)                        |      |        |
-| [PWM](#pwm)                          |      |        |
-| [WatchdogTimer](#watchdog)           |      |        |
-| [Interrupt](#interrupt)              |      | ✅     |
-| [DMA](#dma)                          |      |        |
-| [Clock Management](#clockmanagement) |      |        |
+| Knowledge                            | Note                                                                                               | Status |
+| ------------------------------------ | -------------------------------------------------------------------------------------------------- | ------ |
+| [MicroController](#microcontroller)  | [Note for STM32](https://thanhdeptrai.notion.site/stm32f4x-d81f2376cfe649389089d610025f7f67?pvs=4) | ✅     |
+| [FreeRTOS](#freertos)                |                                                                                                    | ✅     |
+| [Lora/ LoraWan](#lora/lorawan)       |                                                                                                    |        |
+| [PWM](#pwm)                          |                                                                                                    |        |
+| [WatchdogTimer](#watchdog)           |                                                                                                    |        |
+| [Interrupt](#interrupt)              |                                                                                                    | ✅     |
+| [DMA](#dma)                          |                                                                                                    |        |
+| [Clock Management](#clockmanagement) |                                                                                                    |        |
 
 ### Microcontroller
 
