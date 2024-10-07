@@ -5,7 +5,7 @@
 | [MicroController](#microcontroller) |                                                                                              |                                     | Update |
 | [FreeRTOS](#freertos)               |                                                                                              |                                     | Update |
 | [Task Operation](#task)             |                                                                                              |                                     | Update |
-| [Semaphore](#semaphore)             | [Example](https://thanhdeptrai.notion.site/semaphore-115f363afe3980bcb843cc86f6f23534?pvs=4) | Binary/ Couting/ Inversion Priority | Update |
+| [Semaphore](#semaphore)             | [Example](https://thanhdeptrai.notion.site/semaphore-115f363afe3980bcb843cc86f6f23534?pvs=4) | Binary/ Couting/ Inversion Priority | ✅     |
 | [Queue](#queue)                     |                                                                                              |                                     | Update |
 | [Mutex](#mutex)                     |                                                                                              |                                     | Update |
 
